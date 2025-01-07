@@ -9,11 +9,11 @@
     --second-text-color: rgb(68, 68, 68);
     --third-text-color: rgb(30, 159, 171);
 
-    --first-color: rgb(110, 87, 224);
-    --hover-first-color: rgb(40, 91, 212);
+    --first-color: rgb(0, 201, 255);
+    --hover-first-color: rgb(30, 159, 171);
 
     --second-color: rgb(0, 201, 255);
-    --third-color: rgb(192, 166, 49);
+    --third-color: rgb(30, 159, 171);
     --shadow-color: rgba(0, 0, 0, 0.1);
 
 }
