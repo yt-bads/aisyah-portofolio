@@ -811,4 +811,7 @@ footer {
     .input-field {
         width: 100%;
     }
+    html {
+    font-size: 60%
+    }
 }
